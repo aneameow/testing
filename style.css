@@ -29,11 +29,8 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-<<<<<<< HEAD
   color: #ff5;
-=======
   color: #fff;
->>>>>>> new-contacts
   background-color: #070217;
 }
 
@@ -84,11 +81,7 @@ margin-left: 30px;
 }
 
 .content {
-<<<<<<< HEAD
-  margin: 0;
-=======
   margin: 1;
->>>>>>> new-contacts
   border-radius: 20px;
   padding: 30px;
   background-color: #f3f3f3;
